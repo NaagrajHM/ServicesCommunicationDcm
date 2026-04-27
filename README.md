@@ -1,6 +1,15 @@
 # ServicesCommunicationDcm
 Diagnostic communication manager
 
+# 2026.04.27: branch_server_v0.0.4
+Feature:
+      #9 Type define uint32.
+   ,  #10 Implement ASCII to DWORD(uint32) conversion.
+   ,  #11 Implement SecurityAccess service and required infrastructure.
+
+Known issue:
+      #12 Optimize ASCII to HEX conversions.
+
 # 2026.04.22: branch_server_v0.0.3
 Feature:
       #1 Implement Ascii to Hex word conversion function.
