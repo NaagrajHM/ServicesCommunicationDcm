@@ -1,6 +1,9 @@
 # ServicesCommunicationDcm
 Diagnostic communication manager
 
+# 2026.07.05:
+      #26 2026.07.05: branch_server_v0.0.5 - FEATURE - Update software version numbers.
+
 # 2026.05.05:
       #13 2026.05.05: branch_server_v0.0.5 - FEATURE - Implement (a dummy) request download service.
    ,  #14 2026.05.05: branch_server_v0.0.5 - BUGFIX - Unknown service request send negative response code - service not supported.
@@ -18,7 +21,7 @@ Diagnostic communication manager
 
 # 2026.04.27: branch_server_v0.0.4
 Feature:
-      #9 Type define uint32.
+      #9  Type define uint32.
    ,  #10 Implement ASCII to DWORD(uint32) conversion.
    ,  #11 Implement SecurityAccess service and required infrastructure.
 
